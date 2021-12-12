@@ -30,7 +30,8 @@ let i = {
   <img height="25" alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img height="25" alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
   <img height="25" alt="ChartJS" src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-  <img height="25" alt="C++" src="https://img.shields.io/badge/C++-FF6384?style=for-the-badge&logo=cpp&logoColor=white" />
+  <img height="25" alt="Redux" src="https://img.shields.io/badge/Redux-43853D?style=for-the-badge&logo=redux&logoColor=white" />
+  <img height="25" alt="C++" src="https://img.shields.io/badge/C++-43853D?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanoe9&show_icons=true&locale=en&layout=compact" alt="sanoe9" /></p>
