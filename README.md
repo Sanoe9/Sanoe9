@@ -19,8 +19,8 @@ let i = {
 <h3 align="center">
   Currently working on
 </h3>
-- <a align="center" href="https://salmanoe.com">salmanoe.com</a> - My personal site
-- <span align="center">Learning Typescript and PHP</span>
+- <a align="center" href="https://salmanoe.com">salmanoe.com</a> - My personal site <br/>
+- Learning Typescript and PHP
 
 <h3 align="center">Languages, Frameworks and Tools</h3>
 <p align="center">
