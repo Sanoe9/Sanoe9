@@ -16,8 +16,11 @@ let i = {
   want: 'to learn as much as I can about programming'
 };
 ```
-
-- 💬 Ask me about **Javascript, React, Node.js, DBMS**
+<h3>
+  Currently working on
+</h3>
+- <a href="https://salmanoe.com">salmanoe.com</a> - My personal site
+- Learning Typescript and PHP
 
 <h3 align="center">Languages, Frameworks and Tools</h3>
 <p align="center">
@@ -56,4 +59,4 @@ let i = {
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanoe9&show_icons=true&locale=en" alt="sanoe9" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanoe9" alt="sanoe9" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=sanoe9" alt="sanoe9" /></a> </p>
