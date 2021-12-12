@@ -52,8 +52,8 @@ let i = {
   <img height="25" alt="Figma" src="https://img.shields.io/badge/Figma-pink?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanoe9&show_icons=true&locale=en&layout=compact" alt="sanoe9" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanoe9&show_icons=true&locale=en&layout=compact" alt="sanoe9" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanoe9&show_icons=true&locale=en" alt="sanoe9" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanoe9&show_icons=true&locale=en" alt="sanoe9" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanoe9" alt="sanoe9" /></a> </p>
