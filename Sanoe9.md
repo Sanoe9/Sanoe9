@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Salma Noe</h1>
+<h1 align="center">Hello World 🌍, I'm Salma Noe</h1>
 <h3 align="center">A Full Stack Software Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanoe9" alt="sanoe9" /></a> </p>
