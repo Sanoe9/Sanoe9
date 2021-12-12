@@ -36,6 +36,12 @@ let i = {
   <img height="25" alt="MySQL" src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MYSQL&logoColor=white" />
   <img height="25" alt="Nginx" src="https://img.shields.io/badge/Nginx-lightblue?style=for-the-badge&logo=nginx&logoColor=white" />
   <img height="25" alt="Redis" src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis&logoColor=white" />
+  <img height="25" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-yellow?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img height="25" alt="Git" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" />
+  <img height="25" alt="Mocha" src="https://img.shields.io/badge/Mocha-brown?style=for-the-badge&logo=mocha&logoColor=white" />
+  <img height="25" alt="Chai" src="https://img.shields.io/badge/Chai-darkgreen?style=for-the-badge&logo=chai&logoColor=white" />
+  <img height="25" alt="SQLITE" src="https://img.shields.io/badge/SQLITE-lightblue?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img height="25" alt="AWS" src="https://img.shields.io/badge/AWS-darkblue?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanoe9&show_icons=true&locale=en&layout=compact" alt="sanoe9" /></p>
