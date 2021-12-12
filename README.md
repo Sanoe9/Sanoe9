@@ -19,7 +19,7 @@ let i = {
 
 - 💬 Ask me about **Javascript, React, Node.js, DBMS**
 
-<h3 align="center">Languages and Frameworks</h3>
+<h3 align="center">Languages, Frameworks and Tools</h3>
 <p align="center">
   <img height="25" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img height="25" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -30,8 +30,12 @@ let i = {
   <img height="25" alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img height="25" alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
   <img height="25" alt="ChartJS" src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-  <img height="25" alt="Redux" src="https://img.shields.io/badge/Redux-43853D?style=for-the-badge&logo=redux&logoColor=white" />
+  <img height="25" alt="Redux" src="https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux&logoColor=white" />
   <img height="25" alt="C++" src="https://img.shields.io/badge/C++-43853D?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img height="25" alt="Jest" src="https://img.shields.io/badge/Jest-pink?style=for-the-badge&logo=jest&logoColor=white" />
+  <img height="25" alt="MySQL" src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MYSQL&logoColor=white" />
+  <img height="25" alt="Nginx" src="https://img.shields.io/badge/Nginx-lightblue?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img height="25" alt="Redis" src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanoe9&show_icons=true&locale=en&layout=compact" alt="sanoe9" /></p>
