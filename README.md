@@ -42,6 +42,14 @@ let i = {
   <img height="25" alt="Chai" src="https://img.shields.io/badge/Chai-darkgreen?style=for-the-badge&logo=chai&logoColor=white" />
   <img height="25" alt="SQLITE" src="https://img.shields.io/badge/SQLITE-lightblue?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img height="25" alt="AWS" src="https://img.shields.io/badge/AWS-darkblue?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img height="25" alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img height="25" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+  <img height="25" alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" />
+  <img height="25" alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" />
+  <img height="25" alt="EsLint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
+  <img height="25" alt="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
+  <img height="25" alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img height="25" alt="Figma" src="https://img.shields.io/badge/Figma-pink?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanoe9&show_icons=true&locale=en&layout=compact" alt="sanoe9" /></p>
