@@ -11,16 +11,16 @@
 
 ```
 let i = {
-  am: ['a software engineer', 'a mother', 'a french tutor', 'makeup enthusiast'],
+  am: ['a software engineer', 'a mother', 'a french tutor'],
   love: ['writing code', 'solving problems', 'playing with my toddler', 'working out'],
   want: 'to learn as much as I can about programming'
 };
 ```
-<h3>
+<h3 align="center">
   Currently working on
 </h3>
-- <a href="https://salmanoe.com">salmanoe.com</a> - My personal site
-- Learning Typescript and PHP
+- <a align="center" href="https://salmanoe.com">salmanoe.com</a> - My personal site
+- <span align="center">Learning Typescript and PHP</span>
 
 <h3 align="center">Languages, Frameworks and Tools</h3>
 <p align="center">
