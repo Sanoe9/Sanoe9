@@ -1,8 +1,6 @@
 <h1 align="center">Hello World 🌍, I'm Salma Noe</h1>
 <h3 align="center">A Full Stack Software Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanoe9" alt="sanoe9" /></a> </p>
-
 - 💬 Ask me about **Javascript, React, Node.js, DBMS**
 
 - 📫 How to reach me **sattari2101@gmail.com**
@@ -18,3 +16,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanoe9&show_icons=true&locale=en&layout=compact" alt="sanoe9" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanoe9&show_icons=true&locale=en" alt="sanoe9" /></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanoe9" alt="sanoe9" /></a> </p>
